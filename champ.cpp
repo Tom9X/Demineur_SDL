@@ -90,7 +90,7 @@ Champ::Champ(int w, int h)
     drapeau = IMG_Load("images/drapeau.gif");
     font = NULL;
     font = TTF_OpenFont("fonts/arial.ttf", 20);
-    if(font == NULL) std::cout << "police" << std::endl;
+    if(font == NULL) std::cerr << "impossible de charger le fichier de police: 'images/arial.ttf'" << std::endl;
     chiffre = NULL;
 }
 
