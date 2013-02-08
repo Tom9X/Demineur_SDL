@@ -54,7 +54,7 @@ public:
     
     void afficher(SDL_Surface *ecran);
     void setAdj(int x, int y);
-    void poserDrapeau(int x, int Y);
+    void poserDrapeau(int x, int y);
     void decocher(int x, int y);
     void dec(int x, int y); /* recursif */
     char getStatus();
