@@ -1,9 +1,9 @@
 Author: Emmanuel Nicolet (emmanuel dot nicolet at gmail dot com)
 
 English:
-This is a very (very) simple Minesweeper game written in C++ with the use of the SDL library.
+This is a very (very) simple Minesweeper game written in C++ using the SDL library.
 All the source files are under the BSD licence (http://opensource.org/licenses/BSD-2-Clause).
 
 Français:
-Ceci est un très (très) simple Demineur écris en C++ en utilisant la bibliothèque SDL.
+Ceci est un très (très) simple Demineur écrit en C++ en utilisant la bibliothèque SDL.
 Tous les fichiers sources sont sous licence BSD (http://opensource.org/licenses/BSD-2-Clause).
